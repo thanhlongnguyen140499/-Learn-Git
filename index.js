@@ -7,3 +7,5 @@ var cat = new Cat('Jerry')
 
 dog.eat(cat);
 console.log(dog);
+
+console.log("Rapper pho-ri-phai")
